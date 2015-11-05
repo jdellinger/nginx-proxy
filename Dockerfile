@@ -1,5 +1,5 @@
 FROM nginx
-MAINTAINER zedtux, zedtux@zedroot.org
+MAINTAINER jdellinger, jay@dellingertechnologies.com
 
 ENV DOCKER_HOST unix:///tmp/docker.sock
 ENV FOREGO_DOWNLOAD_URL https://godist.herokuapp.com/projects/ddollar/forego/releases/current/linux-amd64/forego
